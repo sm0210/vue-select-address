@@ -349,6 +349,7 @@ export default {
 }
 </script>
 <style lang="less">
+@import  "./animate.less";
 /*
   地址选择器
 */
